@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Avery (@averydev62) 👋
 
-<!--
-**averydev62/averydev62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in cloud operations, spending most days wrangling Kubernetes clusters, writing Terraform modules, and building CI/CD pipelines that don't fall over.
 
-Here are some ideas to get you started:
+**Currently working on:**
+- Hardening multi-tenant k8s setups and writing clean Helm charts
+- Automating infrastructure verification in GitHub Actions
+- Tweaking my local homelab configs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Daily drivers:**
+- **Cloud & Infra:** Terraform, Kubernetes, Docker
+- **CI/CD & Systems:** GitHub Actions, Linux (Debian/Ubuntu)
+- **Glue code:** Bash, Python, a bit of Go
+
+**Connect:**
+- Shoot an email via my profile or open an issue on any public repo.
